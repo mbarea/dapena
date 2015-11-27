@@ -10,6 +10,7 @@ package examenxavi;
  * @author FUAH XAVI    
  */
  //hasta aqui 2,.5
+// hasta aqui 5 FUAAAAAAAAAAAAAAAAAAAH
 
 public class ExamenXavi 
 {
@@ -18,7 +19,7 @@ public class ExamenXavi
      */
     public static void main(String[] args) 
     {
-    System.out.println("FUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH XAVIII");
+    System.out.println("FUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH XAVIII UN PUTO 5");
 
     }
 }
